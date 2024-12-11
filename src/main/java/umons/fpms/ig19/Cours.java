@@ -19,7 +19,7 @@ import java.util.ArrayList;
 public class Cours {
     private String intitule;
         String duree;
-        int prof;
+        int prof; //test
 
     public Cours(String intitule, String duree, int prof) {
         this.intitule = intitule;
